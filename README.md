@@ -25,7 +25,7 @@ Ensure you have Python installed on your system.
 1. Clone the repository:
    ```bash
    git clone <repository_url>
-   cd chatbot_project
+   cd Langchain
    ```
 2. Install dependencies:
    ```bash
